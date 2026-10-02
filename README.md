@@ -18,25 +18,25 @@ Hi, I'm Zhezhao Yu — **@ylz3333** on GitHub. My projects explore web developme
 
 ### Selected projects
 
-#### [Marvel Character Explorer](https://github.com/ylz3333/mp2)
+#### [Marvel Character Explorer](https://github.com/ylz3333/marvel-character-explorer)
 
 A character browser with searchable lists, sorting, a filterable gallery, and detail pages with previous/next navigation.
 
 `React` `TypeScript` `React Router` `Axios`
 
-#### [Task Management API](https://github.com/ylz3333/mp3)
+#### [Task Management API](https://github.com/ylz3333/task-management-api)
 
 A REST API for users and tasks, with CRUD routes, query filtering, sorting, pagination, and task assignment logic.
 
 `JavaScript` `Node.js` `Express` `MongoDB` `Mongoose`
 
-#### [Valorant Highlights](https://github.com/ylz3333/mp1)
+#### [Valorant Highlights](https://github.com/ylz3333/valorant-highlights)
 
 A game-themed showcase with agent sections, a carousel, video, scroll effects, and mobile navigation.
 
 `HTML` `SCSS` `JavaScript` `Webpack`
 
-#### [Personal Introduction Page](https://github.com/ylz3333/mp0)
+#### [Personal Introduction Page](https://github.com/ylz3333/personal-introduction)
 
 A simple personal page introducing my interest in web programming, basketball, and games.
 
