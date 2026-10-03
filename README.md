@@ -1,59 +1,82 @@
 <div align="center">
 
-# Zhezhao Yu
+# Hi, I'm Zhezhao Yu
 
-**Web Development · Interactive Interfaces · APIs**
+**Computer Engineering @ UIUC · Backend Engineering · AI Infrastructure**
 
-From browser experiences to backend services.
+Champaign, Illinois
 
-[Explore my repositories](https://github.com/ylz3333?tab=repositories)
+[Portfolio](https://ylz3333.github.io/) · [Email](mailto:zhezhao3@illinois.edu) · [Repositories](https://github.com/ylz3333?tab=repositories)
 
 </div>
 
----
+## About me
 
-### About
+I'm a Computer Engineering student at the **University of Illinois Urbana-Champaign**, interested in backend engineering, distributed systems, and AI infrastructure. Through internships in financial technology and game development, I've worked on C++ APIs, real-time data pipelines, and cloud services.
 
-Hi, I'm Zhezhao Yu — **@ylz3333** on GitHub. My projects explore web development through interactive pages, React applications, and database-backed APIs.
+I enjoy understanding how systems work and building the pieces that make them reliable.
 
-### Selected projects
+## Education
 
-#### [Marvel Character Explorer](https://github.com/ylz3333/marvel-character-explorer)
+**University of Illinois Urbana-Champaign** — B.S. in Computer Engineering  
+August 2023 – Present · **GPA: 3.83 / 4.00**  
+Dean's List: Fall 2023, Spring 2025
 
-A character browser with searchable lists, sorting, a filterable gallery, and detail pages with previous/next navigation.
+**Coursework:** Data Structures, Algorithms, Operating Systems, Computer Architecture, Databases, Applied Machine Learning, Deep Learning, and Web Programming.
 
-`React` `TypeScript` `React Router` `Axios`
+## Experience
 
-#### [Task Management API](https://github.com/ylz3333/task-management-api)
+**Neurova · Software Engineer Intern** — San Jose, California
+- Developed C++ RESTful APIs for financial data retrieval and real-time streaming.
+- Built financial data pipelines with validation and error handling, and collaborated with AI engineers on model deployment and API integration.
 
-A REST API for users and tasks, with CRUD routes, query filtering, sorting, pagination, and task assignment logic.
+**Shanghai Huanmeng Network · Software Engineer Winter Intern** — China
+- Built C++ game backend APIs, reducing average request latency by **20%**; optimized Redis caching to improve throughput by **15–30%**.
+- Automated log and metric processing with Python and deployed services on AWS EC2 with Nginx load balancing.
 
-`JavaScript` `Node.js` `Express` `MongoDB` `Mongoose`
+**Global Infotech · Software Engineer Summer Intern** — China
+- Processed financial data in Python to generate key risk indicators and implemented cleaning, transformation, and validation workflows.
+- Integrated Kafka streams for real-time transaction monitoring with sub-second event propagation.
 
-#### [Valorant Highlights](https://github.com/ylz3333/valorant-highlights)
+## Selected projects
 
-A game-themed showcase with agent sections, a carousel, video, scroll effects, and mobile navigation.
+### ByteDance Bootcamp — Screen Sharing Tool
 
-`HTML` `SCSS` `JavaScript` `Webpack`
+Implemented screen and window capture strategies, adaptive bitrate and resolution logic, and MediaStream integration with a WebRTC pipeline. Designed functional and performance scenarios covering source switching, permission failures, and window lifecycle events.
 
-#### [Personal Introduction Page](https://github.com/ylz3333/personal-introduction)
+`Screen Capture API` `MediaStream` `WebRTC`
 
-A simple personal page introducing my interest in web programming, basketball, and games.
+### [ReproAgent](https://github.com/ylz3333/reproagent-lite)
 
-`HTML` `CSS` `Webpack`
+An evidence-first scientific reproduction workflow connecting registered paper claims to experiment runs, deterministic metric checks, and auditable evidence bundles. The linked Lite implementation presents the reproduction workflow.
 
-### Technologies in these projects
+`Python` `Docker` `Scientific Reproduction`
+
+### [InferMesh](https://github.com/ylz3333/infermesh)
+
+An observable LLM gateway with cost and latency routing policies, bounded failover, streaming responses, OpenTelemetry instrumentation, and a live control panel. Includes Docker and Kubernetes deployment configurations, evaluation fixtures, and fault-injection tooling.
+
+`Python` `FastAPI` `OpenTelemetry` `Docker` `Kubernetes`
+
+Implemented prototype; production throughput and availability have not been measured. [Implementation and evidence](https://github.com/ylz3333/infermesh/blob/main/docs/RESULTS.md).
+
+<details>
+<summary>More web projects</summary>
+
+- [Marvel Character Explorer](https://github.com/ylz3333/marvel-character-explorer) — React and TypeScript character search, gallery, and detail views.
+- [Task Management API](https://github.com/ylz3333/task-management-api) — Node.js, Express, and MongoDB API with filtering, pagination, and task assignment.
+- [Valorant Highlights](https://github.com/ylz3333/valorant-highlights) — Interactive game-themed web experience built with HTML, SCSS, and JavaScript.
+
+</details>
+
+## Technical skills
 
 | Area | Technologies |
 | :--- | :--- |
-| Frontend | HTML, CSS, SCSS, JavaScript, TypeScript, React |
-| Backend & data | Node.js, Express, MongoDB, Mongoose |
-| Routing & tooling | React Router, Axios, Webpack, Git |
+| Languages & databases | C / C++, Python, Java, JavaScript, HTML, CSS, MySQL |
+| Frameworks & infrastructure | Django, AWS, Docker, Redis, Kafka, Nginx, GitHub Actions |
+| Testing & tools | Pytest, unittest, Postman, API testing, integration testing, Cursor |
 
 ---
 
-<div align="center">
-
-[GitHub](https://github.com/ylz3333) · [Projects](https://github.com/ylz3333?tab=repositories)
-
-</div>
+**Let's connect:** [zhezhao3@illinois.edu](mailto:zhezhao3@illinois.edu) · [ylz3333.github.io](https://ylz3333.github.io/)
